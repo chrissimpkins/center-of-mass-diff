@@ -22,6 +22,16 @@ area: 0.06137
 meanX: 0.4175
 meanY: 0.3405
 
+Font 5 - Modified contour, same position WITHOUT overlaps
+area: -0.091545
+meanX: 0.299896
+meanY: 0.3405
+
+Font 6 - Modified contour, same position WITH overlaps
+area: 0.09877
+meanX: 0.300086
+meanY: 0.3405
+
 
 ### GLYPH: uni002E
 
@@ -45,3 +55,12 @@ area: 0.0768443
 meanX: 0.127
 meanY: 0.343892
 
+Font 5 - Modified contour, same position WITHOUT overlaps
+area: -0.0872055
+meanX: 0.127
+meanY: 0.250842
+
+Font 6 - Modified contour, same position WITH overlaps
+area: 0.100588
+meanX: 0.127
+meanY: 0.251256
