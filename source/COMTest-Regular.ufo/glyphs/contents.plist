@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>.notdef</key>
-  <string>_notdef.glif</string>
-  <key>plus</key>
-  <string>plus.glif</string>
-  <key>period</key>
-  <string>period.glif</string>
+	<key>.notdef</key>
+	<string>_notdef.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
+	<key>plus</key>
+	<string>plus.glif</string>
 </dict>
 </plist>

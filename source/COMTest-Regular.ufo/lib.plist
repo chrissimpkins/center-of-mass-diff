@@ -2,11 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>public.glyphOrder</key>
-  <array>
-    <string>.notdef</string>
-    <string>plus</string>
-    <string>period</string>
-  </array>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>7DFDB010-5894-4826-96CB-0E8212B5A02F</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<array>
+		<string>.notdef</string>
+		<string>plus</string>
+		<string>period</string>
+	</array>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>.notdef</string>
+		<string>plus</string>
+		<string>period</string>
+	</array>
 </dict>
 </plist>
